@@ -7,25 +7,6 @@ import time
 import random
 from discord import Game
 
-'''
-fjsofsodhfsdoufhsdofhsodihfosdf
-jsdiofjsdofhsdp
-sfuhsduifhsdi
-fsdgiyfgsdiyfgsdf
-sfishudfisdhfisd
-sfusdhfsid
-sfuidhf
-sdifhsigfsdyfgsydgfdsifdgfsdhfousdf
-sdifgsdufjsp
-sdfhsdifgsdofsdigfs
-sdfhsdufhosdfksdf
-fshdufsdpfsif
-fsofuhsdfsoudfhs
-sfihsdfhsdfusdf
-sdfhusdufsufhs
-sfhsdufsufusdifhsdif
-fsdfsdfhousdhfosd
-'''
 Client = discord.client
 client = commands.Bot(command_prefix = '!')
 Clientdiscord = discord.Client()
@@ -60,7 +41,7 @@ async def on_message(message):
         #await client.send_message(get_user("Aboedi"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
         #await client.send_message(get_user("Cookie"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
         #await client.send_message(get_user("Da Cabo"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
-        #await client.send_message(get_user("♂ AssClap ♂"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
+        #await client.send_message(get_user("luas"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
         #await client.send_message(get_user("lwarrel6"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
         #await client.send_message(get_user("XV 88"), "You awake to a howl in the wind, a shard of a diamond appears in front of you and you hear the voices of a Tavern inside. Without control, you grab the diamond and are thrown through time and space to find yourself in a damp well with a single rope suspended from faint embers glowing at the top. \nhttps://discord.gg/jrNxKmu\nYour adventure awaits...") # Introduce them to the Admin channel
         pass
